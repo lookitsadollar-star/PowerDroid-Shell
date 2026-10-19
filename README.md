@@ -2,6 +2,9 @@
 
 Terminál ve stylu PowerShellu, který běží přímo v telefonu s Androidem (8.0+) a ovládá ho.
 
+## Stažení
+[release/PowerDroid-Shell.apk](release/PowerDroid-Shell.apk) (na stránce souboru klikněte na „Download raw file“)
+
 ## Instalace
 1. Zkopírujte `PowerDroid-Shell.apk` do telefonu a otevřete ho.
 2. Povolte „Instalace z neznámých zdrojů“ pro správce souborů nebo prohlížeč.
